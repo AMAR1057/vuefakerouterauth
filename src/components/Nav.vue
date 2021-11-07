@@ -1,7 +1,7 @@
 <template  >
 <div class="bg-pink-200 text-pink-700">
     <div class="container mx-auto flex items-center justify-between  bg-pink-200">
-    <h1 class=" tracking-tighter text-3xl font-thin">Basic<span class="font-normal">Router</span>
+    <h1 class=" tracking-tighter text-3xl font-thin">Vue<span class="font-normal">Router</span>
         </h1>
     <nav>
         <ul class="flex space-x-4 w-full ">
